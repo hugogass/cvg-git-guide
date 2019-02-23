@@ -1,15 +1,13 @@
-Overview
+# Overview
 My guide to using Git
 
-Usage
-Click on GitHub-1 icon
-On top left, look at Existing Repositories
-Select repository (or)
-Press + and Clone
-Open repository with File Explorer
-Double click and create README file
-Change the.txt to .md (markdown)
-Open with Notepad
+# Usage
+1 Click on GitHub-1 icon
+2 On top left, look at Existing Repositories - Select repository
+3 (or) Press + and Clone
+4 Open repository with File Explorer
+5 Double click and create README file
+6 Change the.txt to .md (markdown)
+7 Open with Notepad
 
-Finish
 
